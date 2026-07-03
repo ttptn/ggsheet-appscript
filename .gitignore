@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Excel and Data files (contain personal data)
+*.xlsx
+*.csv
+*.pdf
+*.log
+
+# Sensitive Credentials
+.clasprc.json
+.clasp.json
+appsscript/.clasp.json
+credentials.json
+token.json
